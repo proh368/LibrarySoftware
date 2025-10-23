@@ -1,0 +1,77 @@
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware\bin\Debug\database.accdb
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware\bin\Debug\LibrarySoftware.exe.config
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware\bin\Debug\LibrarySoftware.exe
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware\bin\Debug\LibrarySoftware.pdb
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.csproj.AssemblyReference.cache
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.LogForm.resources
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.MainForm.resources
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.Properties.Resources.resources
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.csproj.GenerateResource.cache
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.csproj.CoreCompileInputs.cache
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.exe
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.pdb
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.csproj.AssemblyReference.cache
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.LogForm.resources
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.MainForm.resources
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.Properties.Resources.resources
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.csproj.GenerateResource.cache
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.csproj.CoreCompileInputs.cache
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.exe
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.pdb
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware\bin\Debug\LibrarySoftware.exe.config
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware\bin\Debug\LibrarySoftware.exe
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware\bin\Debug\LibrarySoftware.pdb
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.AddProgramForm.resources
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.ListProgramForm.resources
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.AddUserForm.resources
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.UserForm.resources
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.InstallUninstallForm.resources
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\bin\Debug\database.accdb
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\bin\Debug\LibrarySoftware.exe.config
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\bin\Debug\LibrarySoftware.exe
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\bin\Debug\LibrarySoftware.pdb
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.csproj.AssemblyReference.cache
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.AddProgramForm.resources
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.AddUserForm.resources
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.InstallUninstallForm.resources
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.ListProgramForm.resources
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.LogForm.resources
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.MainForm.resources
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.Properties.Resources.resources
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.UserForm.resources
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.csproj.GenerateResource.cache
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.csproj.CoreCompileInputs.cache
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.exe
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.pdb
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.csproj.AssemblyReference.cache
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.AddProgramForm.resources
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.AddUserForm.resources
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.InstallUninstallForm.resources
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.ListProgramForm.resources
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.LogForm.resources
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.MainForm.resources
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.Properties.Resources.resources
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.UserForm.resources
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.csproj.GenerateResource.cache
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.csproj.CoreCompileInputs.cache
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.exe
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.pdb
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\bin\Debug\database.accdb
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\bin\Debug\LibrarySoftware.exe.config
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\bin\Debug\LibrarySoftware.exe
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\bin\Debug\LibrarySoftware.pdb
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.AddInstallUninstallForm.resources
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.AccountForm.resources
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.AddAccountForm.resources
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.AccountForm.resources
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.AddAccountForm.resources
+F:\УП ПМ 06 Чистяков Иван\LibrarySoftware — копия\obj\Debug\LibrarySoftware.AddInstallUninstallForm.resources
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware\bin\Debug\database.accdb
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.AccountForm.resources
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.AddAccountForm.resources
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.AddInstallUninstallForm.resources
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.AddProgramForm.resources
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.AddUserForm.resources
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.InstallUninstallForm.resources
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.ListProgramForm.resources
+E:\УП ПМ 06 Чистяков Иван\LibrarySoftware\obj\Debug\LibrarySoftware.UserForm.resources

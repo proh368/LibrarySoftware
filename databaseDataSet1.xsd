@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="databaseDataSet1" targetNamespace="http://tempuri.org/databaseDataSet1.xsd" xmlns:mstns="http://tempuri.org/databaseDataSet1.xsd" xmlns="http://tempuri.org/databaseDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="databaseConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="databaseConnectionString (Settings)" PropertyReference="ApplicationSettings.LibrarySoftware.Properties.Settings.GlobalReference.Default.databaseConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="BeforeLastMonthTableAdapter" GeneratorDataComponentClassName="BeforeLastMonthTableAdapter" Name="BeforeLastMonth" UserDataComponentName="BeforeLastMonthTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="databaseConnectionString (Settings)" DbObjectName="BeforeLastMonth" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `nameProgram`, `dateInstallation`, `id_Program` FROM `BeforeLastMonth`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nameProgram" DataSetColumn="nameProgram" />
+              <Mapping SourceColumn="dateInstallation" DataSetColumn="dateInstallation" />
+              <Mapping SourceColumn="id_Program" DataSetColumn="id_Program" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Check lastMonth BeforeLastMonthTableAdapter" GeneratorDataComponentClassName="Check_lastMonth_BeforeLastMonthTableAdapter" Name="Check lastMonth BeforeLastMonth" UserDataComponentName="Check lastMonth BeforeLastMonthTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="databaseConnectionString (Settings)" DbObjectName="Check lastMonth BeforeLastMonth" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `nameProgram`, `dateInstallation` FROM `Check lastMonth BeforeLastMonth`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nameProgram" DataSetColumn="nameProgram" />
+              <Mapping SourceColumn="dateInstallation" DataSetColumn="dateInstallation" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="lastMonthTableAdapter" GeneratorDataComponentClassName="lastMonthTableAdapter" Name="lastMonth" UserDataComponentName="lastMonthTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="databaseConnectionString (Settings)" DbObjectName="lastMonth" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `nameProgram`, `dateInstallation`, `id_Program` FROM `lastMonth`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nameProgram" DataSetColumn="nameProgram" />
+              <Mapping SourceColumn="dateInstallation" DataSetColumn="dateInstallation" />
+              <Mapping SourceColumn="id_Program" DataSetColumn="id_Program" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="databaseDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="databaseDataSet1" msprop:Generator_DataSetName="databaseDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="BeforeLastMonth" msprop:Generator_RowEvHandlerName="BeforeLastMonthRowChangeEventHandler" msprop:Generator_RowDeletedName="BeforeLastMonthRowDeleted" msprop:Generator_RowDeletingName="BeforeLastMonthRowDeleting" msprop:Generator_RowEvArgName="BeforeLastMonthRowChangeEvent" msprop:Generator_TablePropName="BeforeLastMonth" msprop:Generator_RowChangedName="BeforeLastMonthRowChanged" msprop:Generator_RowChangingName="BeforeLastMonthRowChanging" msprop:Generator_TableClassName="BeforeLastMonthDataTable" msprop:Generator_RowClassName="BeforeLastMonthRow" msprop:Generator_TableVarName="tableBeforeLastMonth" msprop:Generator_UserTableName="BeforeLastMonth">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nameProgram" msprop:Generator_ColumnPropNameInRow="nameProgram" msprop:Generator_ColumnPropNameInTable="nameProgramColumn" msprop:Generator_ColumnVarNameInTable="columnnameProgram" msprop:Generator_UserColumnName="nameProgram" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="dateInstallation" msprop:Generator_ColumnPropNameInRow="dateInstallation" msprop:Generator_ColumnPropNameInTable="dateInstallationColumn" msprop:Generator_ColumnVarNameInTable="columndateInstallation" msprop:Generator_UserColumnName="dateInstallation" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="id_Program" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInRow="id_Program" msprop:Generator_ColumnPropNameInTable="id_ProgramColumn" msprop:Generator_ColumnVarNameInTable="columnid_Program" msprop:Generator_UserColumnName="id_Program" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Check_x0020_lastMonth_x0020_BeforeLastMonth" msprop:Generator_RowEvHandlerName="Check_lastMonth_BeforeLastMonthRowChangeEventHandler" msprop:Generator_RowDeletedName="Check_lastMonth_BeforeLastMonthRowDeleted" msprop:Generator_RowDeletingName="Check_lastMonth_BeforeLastMonthRowDeleting" msprop:Generator_RowEvArgName="Check_lastMonth_BeforeLastMonthRowChangeEvent" msprop:Generator_TablePropName="Check_lastMonth_BeforeLastMonth" msprop:Generator_RowChangedName="Check_lastMonth_BeforeLastMonthRowChanged" msprop:Generator_RowChangingName="Check_lastMonth_BeforeLastMonthRowChanging" msprop:Generator_TableClassName="Check_lastMonth_BeforeLastMonthDataTable" msprop:Generator_RowClassName="Check_lastMonth_BeforeLastMonthRow" msprop:Generator_TableVarName="tableCheck_lastMonth_BeforeLastMonth" msprop:Generator_UserTableName="Check lastMonth BeforeLastMonth">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nameProgram" msprop:Generator_ColumnPropNameInRow="nameProgram" msprop:Generator_ColumnPropNameInTable="nameProgramColumn" msprop:Generator_ColumnVarNameInTable="columnnameProgram" msprop:Generator_UserColumnName="nameProgram" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="dateInstallation" msprop:Generator_ColumnPropNameInRow="dateInstallation" msprop:Generator_ColumnPropNameInTable="dateInstallationColumn" msprop:Generator_ColumnVarNameInTable="columndateInstallation" msprop:Generator_UserColumnName="dateInstallation" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="lastMonth" msprop:Generator_RowEvHandlerName="lastMonthRowChangeEventHandler" msprop:Generator_RowDeletedName="lastMonthRowDeleted" msprop:Generator_RowDeletingName="lastMonthRowDeleting" msprop:Generator_RowEvArgName="lastMonthRowChangeEvent" msprop:Generator_TablePropName="lastMonth" msprop:Generator_RowChangedName="lastMonthRowChanged" msprop:Generator_RowChangingName="lastMonthRowChanging" msprop:Generator_TableClassName="lastMonthDataTable" msprop:Generator_RowClassName="lastMonthRow" msprop:Generator_TableVarName="tablelastMonth" msprop:Generator_UserTableName="lastMonth">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nameProgram" msprop:Generator_ColumnPropNameInRow="nameProgram" msprop:Generator_ColumnPropNameInTable="nameProgramColumn" msprop:Generator_ColumnVarNameInTable="columnnameProgram" msprop:Generator_UserColumnName="nameProgram" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="dateInstallation" msprop:Generator_ColumnPropNameInRow="dateInstallation" msprop:Generator_ColumnPropNameInTable="dateInstallationColumn" msprop:Generator_ColumnVarNameInTable="columndateInstallation" msprop:Generator_UserColumnName="dateInstallation" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="id_Program" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInRow="id_Program" msprop:Generator_ColumnPropNameInTable="id_ProgramColumn" msprop:Generator_ColumnVarNameInTable="columnid_Program" msprop:Generator_UserColumnName="id_Program" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
